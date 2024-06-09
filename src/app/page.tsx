@@ -1,8 +1,6 @@
 import Image from "next/image";
-import Home from "./home/page.tsx";
+import Home from "./home/page";
 
-export default function Home() {
-  return (
-   <Home/>
-  );
+export default function page() {
+  return <Home />;
 }
