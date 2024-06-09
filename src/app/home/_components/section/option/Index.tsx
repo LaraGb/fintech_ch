@@ -7,7 +7,7 @@ import {
 } from "@/components/block/Section";
 import { cards } from "@/data";
 import { Button } from "@/components/ui/button";
-import { pageIcons } from "@/utils/pageIcons";
+
 import TypographyH2 from "@/components/typography/H2";
 import TypographyH3 from "@/components/typography/H3";
 import OptionCard from "./Card";
